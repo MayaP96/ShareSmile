@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.mkyong.android;
+package org.sharesmile.main;
 
 public final class R {
     public static final class attr {
